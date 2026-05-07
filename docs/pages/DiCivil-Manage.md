@@ -1,7 +1,7 @@
 ---
 layout: default
 title: DiCivil Manage
-nav_order: 5
+nav_order: 4
 has_children: true
 permalink: /docs/dicivil-manage
 ---
@@ -20,4 +20,4 @@ DiCivil Manage includes:
 
 Looking for DiCivil Design documentation? Visit:
 
-- [DiCivil Design User Guide](https://docs.dicivilDesign.diroots.com/)
+- [DiCivil Design User Guide](https://docs.dicivil-design.diroots.com/)

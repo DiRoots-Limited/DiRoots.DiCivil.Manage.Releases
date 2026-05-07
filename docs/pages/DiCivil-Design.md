@@ -1,7 +1,7 @@
 ---
 layout: default
 title: DiCivil Design
-nav_order: 4
+nav_order: 5
 permalink: /docs/dicivil-design
 ---
 
@@ -9,4 +9,4 @@ permalink: /docs/dicivil-design
 
 DiCivil Design documentation now lives in a dedicated guide:
 
-- [Open DiCivil Design User Guide](https://docs.dicivilDesign.diroots.com/)
+- [Open DiCivil Design User Guide](https://docs.dicivil-design.diroots.com/)
