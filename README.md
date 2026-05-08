@@ -17,10 +17,10 @@ DiCivil provides users, different tools to help design and manage their data to 
 
 ### Useful links
 [Videos & Documentation](https://docs.dicivil.diroots.com/)
-[Provide Feedback](https://diroots.com/contact-us/?utm_source=DiRootsAppManager&utm_medium=App-Description&utm_campaign=DiCivil)
-[Custom Software Development](https://diroots.com/custom-software-development/?utm_source=DiRootsAppManager&utm_medium=App-Description&utm_campaign=DiCivil)
+[Provide Feedback](https://diroots.com/contact-us/?utm_source=DiCivil&utm_medium=App-Description&utm_campaign=DiCivil)
+[Custom Software Development](https://diroots.com/custom-software-development/?utm_source=DiCivil&utm_medium=App-Description&utm_campaign=DiCivil)
 
-[DiRoots Limited](https://diroots.com/?utm_source=DiRootsAppManager&utm_medium=App-Description&utm_campaign=DiCivil) 
+[DiRoots, LDA](https://diroots.com/?utm_source=DiCivil&utm_medium=App-Description&utm_campaign=DiCivil) 
 
 🇵🇹 Portugal Office:
 R. da Marcha Gualtariana, 628
