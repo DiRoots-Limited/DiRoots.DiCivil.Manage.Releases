@@ -2,7 +2,6 @@
 layout: default
 title: Style Helper User Guide
 nav_order: 8
-parent: DiCivil Manage
 has_children: true
 permalink: /docs/style-helper-user-guide
 ---

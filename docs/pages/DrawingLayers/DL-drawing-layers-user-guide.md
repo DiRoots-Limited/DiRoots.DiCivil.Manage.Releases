@@ -2,7 +2,6 @@
 layout: default
 title: Drawing Layers User Guide
 nav_order: 9
-parent: DiCivil Manage
 has_children: true
 permalink: /docs/drawing-layers-user-guide
 ---

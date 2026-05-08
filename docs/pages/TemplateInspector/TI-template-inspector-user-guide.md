@@ -2,7 +2,6 @@
 layout: default
 title: Template Inspector User Guide
 nav_order: 8
-parent: DiCivil Manage
 has_children: true
 permalink: /docs/template-inspector-user-guide
 ---

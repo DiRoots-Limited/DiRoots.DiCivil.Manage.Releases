@@ -2,7 +2,6 @@
 layout: default
 title: Transfer Object Layers User Guide
 nav_order: 10
-parent: DiCivil Manage
 has_children: true
 permalink: /docs/transfer-object-layers-user-guide
 ---

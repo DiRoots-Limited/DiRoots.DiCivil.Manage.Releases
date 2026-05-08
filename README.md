@@ -1,10 +1,7 @@
-A single application bundle that includes 8 free Civil 3D Plugins to boost your productivity. 
-DiCivil provides users, different tools to help design and manage their data to get your job done faster and better.
+A product that includes 5 Civil 3D tools to boost your productivity.
+DiCivil Manage provides tools focused on data management workflows.
 
-### Included in DiCivil bundle
-- Grading Pro
-- Earthwork Tool
-- Piping Engineer
+### Included in DiCivil Manage
 - Style Helper
 - Template Inspector
 - Drawing Layers
@@ -16,7 +13,7 @@ DiCivil provides users, different tools to help design and manage their data to 
 2022, 2023, 2024, 2025, 2026 and 2027.
 
 ### Useful links
-[Videos & Documentation](https://docs.dicivil.diroots.com/)
+[Videos & Documentation](https://docs.dicivil-manage.diroots.com/)
 [Provide Feedback](https://diroots.com/contact-us/?utm_source=DiCivil&utm_medium=App-Description&utm_campaign=DiCivil)
 [Custom Software Development](https://diroots.com/custom-software-development/?utm_source=DiCivil&utm_medium=App-Description&utm_campaign=DiCivil)
 
