@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Drawing Layers User Guide
-nav_order: 6
+nav_order: 7
 has_children: true
 permalink: /docs/drawing-layers-user-guide
 ---
