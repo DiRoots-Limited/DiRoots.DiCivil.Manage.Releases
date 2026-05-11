@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Style Helper User Guide
-nav_order: 8
+nav_order: 4
 has_children: true
 permalink: /docs/style-helper-user-guide
 ---

@@ -1,5 +1,5 @@
-A product that includes 5 Civil 3D tools to boost your productivity.
-DiCivil Manage provides tools focused on data management workflows.
+DiCivil Manage includes 5 Autodesk Civil 3D tools focused on data management workflows.
+This guide explains how each tool works, with step-by-step descriptions and animated GIFs that show how the tools behave.
 
 ### Included in DiCivil Manage
 - Style Helper
@@ -14,6 +14,7 @@ DiCivil Manage provides tools focused on data management workflows.
 
 ### Useful links
 [Videos & Documentation](https://docs.dicivil-manage.diroots.com/)
+[DiCivil Design Documentation](https://docs.dicivil-design.diroots.com/)
 [Provide Feedback](https://diroots.com/contact-us/?utm_source=DiCivil&utm_medium=App-Description&utm_campaign=DiCivil)
 [Custom Software Development](https://diroots.com/custom-software-development/?utm_source=DiCivil&utm_medium=App-Description&utm_campaign=DiCivil)
 

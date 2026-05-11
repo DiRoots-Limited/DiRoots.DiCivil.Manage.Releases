@@ -26,3 +26,5 @@ DiCivil includes multiple Autodesk Civil 3D Plugins to boost your productivity. 
 - Transfer Point Description Keys and Figure Prefix Database entries from open/closed files. Export/import Point Description Keys to/from Excel; edit values prior to applying.
 
 [Download](https://diroots.com/civil3d-plugins/dicivil/){: .btn .btn-di-orange }
+
+Looking for DiCivil Design documentation? Visit [docs.dicivil-design.diroots.com](https://docs.dicivil-design.diroots.com).

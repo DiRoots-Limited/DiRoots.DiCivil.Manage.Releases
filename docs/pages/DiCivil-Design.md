@@ -1,7 +1,7 @@
 ---
 layout: default
 title: DiCivil Design
-nav_order: 5
+nav_order: 10
 permalink: /docs/dicivil-design
 ---
 
