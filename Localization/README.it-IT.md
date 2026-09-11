@@ -8,7 +8,7 @@ Questa guida spiega ogni strumento con descrizioni dettagliate e GIF animate.
 - Style Helper
 - Template Inspector
 - Drawing Layers
-- Transfer Object Layer
+- Transfer Object Layers
 - Transfer Survey Standards
 
 ### Versioni di Civil 3D supportate
