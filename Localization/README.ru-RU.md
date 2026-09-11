@@ -8,7 +8,7 @@ DiCivil Manage включает 5 инструментов Autodesk Civil 3D д�
 - Style Helper
 - Template Inspector
 - Drawing Layers
-- Transfer Object Layer
+- Transfer Object Layers
 - Transfer Survey Standards
 
 ### Поддерживаемые версии Civil 3D
