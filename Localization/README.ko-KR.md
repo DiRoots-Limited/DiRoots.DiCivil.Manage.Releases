@@ -8,7 +8,7 @@ DiCivil Manage에는 데이터 관리 워크플로에 중점을 둔 5개의 Auto
 - Style Helper
 - Template Inspector
 - Drawing Layers
-- Transfer Object Layer
+- Transfer Object Layers
 - Transfer Survey Standards
 
 ### 지원되는 Civil 3D 버전
