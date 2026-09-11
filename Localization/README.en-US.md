@@ -8,7 +8,7 @@ This guide explains how each tool works, with step-by-step descriptions and anim
 - Style Helper
 - Template Inspector
 - Drawing Layers
-- Transfer Object Layer
+- Transfer Object Layers
 - Transfer Survey Standards
 
 
