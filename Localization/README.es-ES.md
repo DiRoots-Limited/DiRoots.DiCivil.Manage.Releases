@@ -8,7 +8,7 @@ Esta guía explica cada herramienta mediante descripciones paso a paso y GIF ani
 - Style Helper
 - Template Inspector
 - Drawing Layers
-- Transfer Object Layer
+- Transfer Object Layers
 - Transfer Survey Standards
 
 ### Versiones de Civil 3D compatibles
