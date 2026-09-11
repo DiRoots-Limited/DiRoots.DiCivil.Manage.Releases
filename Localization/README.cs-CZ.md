@@ -8,7 +8,7 @@ Tato příručka vysvětluje fungování jednotlivých nástrojů pomocí podrob
 - Style Helper
 - Template Inspector
 - Drawing Layers
-- Transfer Object Layer
+- Transfer Object Layers
 - Transfer Survey Standards
 
 ### Podporované verze Civil 3D
