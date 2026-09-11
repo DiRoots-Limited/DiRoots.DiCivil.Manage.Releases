@@ -8,7 +8,7 @@ DiCivil Manage 包含 5 款專注於資料管理工作流程的 Autodesk Civil 3
 - Style Helper
 - Template Inspector
 - Drawing Layers
-- Transfer Object Layer
+- Transfer Object Layers
 - Transfer Survey Standards
 
 ### 支援的 Civil 3D 版本
