@@ -8,7 +8,7 @@ Dieser Leitfaden erklärt jedes Werkzeug mit schrittweisen Beschreibungen und an
 - Style Helper
 - Template Inspector
 - Drawing Layers
-- Transfer Object Layer
+- Transfer Object Layers
 - Transfer Survey Standards
 
 ### Unterstützte Civil-3D-Versionen
