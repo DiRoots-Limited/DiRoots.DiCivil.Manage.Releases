@@ -8,7 +8,7 @@ DiCivil Manage には、データ管理ワークフローの改善に特化し�
 - Style Helper
 - Template Inspector
 - Drawing Layers
-- Transfer Object Layer
+- Transfer Object Layers
 - Transfer Survey Standards
 
 ### 対応する Civil 3D バージョン
