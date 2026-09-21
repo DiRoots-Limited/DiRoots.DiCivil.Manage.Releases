@@ -29,7 +29,7 @@ Download the [latest version of DiCivil](https://diroots.com/civil-3d-plugins/di
 ## Install
 
 ### Compatibility
-- Windows 7, 8, 10 and 11.
+- Windows 8, 10 and 11.
 - Civil 3D 2022, 2023, 2024, 2025, 2026 and 2027.
 
 ### Standard Installation

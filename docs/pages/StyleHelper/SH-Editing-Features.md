@@ -49,7 +49,7 @@ After accessing the preferences, you can:
 - **Reorder Columns** - Arrange columns in preferred order.
 
 
-![Table customization and profile management](../../../assets/images/GIFs/SH/Table-customization-and-profile-management.gif)
+![Table customization and profile management](../../../assets/images/GIFs/SH/Table%20Customization-.gif)
 <sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ## Data Editing for the Different Tabs
@@ -91,19 +91,19 @@ Edit multiple objects, style or table rows simultaneously for efficient workflow
 ![Multi-row editing process](../../../assets/images/GIFs/SH/Multi-row-editing-process.gif)
 <sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
-### Main Component–Subcomponent Relationships in Batch Editing
+### Main Component-Subcomponent Relationships in Batch Editing
 
 Since the tool displays all subcomponents, some data may be associated with the main component. Editing a property of the main component can affect multiple rows, because the main component controls several subcomponents.
 
-#### Understanding Main Component–Subcomponent Data
-- **Main Component Properties** – Some data belongs to the main component.
-- **Subcomponents** – Subcomponents have their own specific data.
-- **Multiple Row Impact** – Editing main component properties can impact multiple rows.
+#### Understanding Main Component-Subcomponent Data
+- **Main Component Properties** - Some data belongs to the main component.
+- **Subcomponents** - Subcomponents have their own specific data.
+- **Multiple Row Impact** - Editing main component properties can impact multiple rows.
 
 #### Main Component Property Editing
-- **Main Component Changes** – Changes to main component properties affect all related subcomponents.
-- **Cascading Updates** – Updates to the main component automatically update its subcomponents.
-- **Bulk Modifications** – Modify main component properties to update several subcomponents at once.
+- **Main Component Changes** - Changes to main component properties affect all related subcomponents.
+- **Cascading Updates** - Updates to the main component automatically update its subcomponents.
+- **Bulk Modifications** - Modify main component properties to update several subcomponents at once.
 
 > **Note:** To identify which rows represent subcomponents or main components during batch editing, refer to the **Component** column in the table. The structure and naming in the Component column are explained in the following reference: [Component Column Reference](SH-Object-Label-Table-Styles.md#component-column-reference)
 
@@ -130,16 +130,7 @@ Export and import functionality allows you to:
 
 Export style data for external editing:
 
-- **Style Data Export** - Export the current table data to an Excel workbook.
-- **Column Configuration** - Include only the properties configured in Preferences.
-- **File Saving** - Save the Excel file to your chosen location.
-- **External Editing** - Edit editable property values in Excel.
-
-#### Export Workflow
-
-1. **Open Style Helper** - From the DiRoots tab.
-2. **Select Tab** - Choose Object Styles, Label Styles, or Table Styles.
-3. **Check Objects** - Select the Civil 3D object categories to include (for example, Pipe and Point).
+1. **Check Objects** - Select the Civil 3D object to include (for example, Pipe and Point).
 4. **Configure Columns** - Use the Preferences button to choose which properties appear in the table and export.
 5. **Export to Excel** - Click **Export to Excel** and save the workbook.
 6. **Edit in Excel** - Modify editable property values in the exported file.
@@ -149,13 +140,6 @@ Export style data for external editing:
 #### Standard Import Process
 
 The import process updates Style Helper with data from an edited Excel file:
-
-- **File Selection** - Select the Excel file to import.
-- **Read-Only Protection** - Information properties and other read-only fields are not updated.
-- **Data Review** - Review imported values in the Style Helper table.
-- **Change Application** - Apply verified changes to update styles in the drawing.
-
-#### Import Workflow
 
 1. **Select File** - Click **Import from Excel** and choose the updated workbook.
 2. **Review Data** - Verify imported values in the Style Helper table.
