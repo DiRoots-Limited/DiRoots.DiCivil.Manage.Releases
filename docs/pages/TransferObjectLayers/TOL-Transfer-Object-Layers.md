@@ -42,7 +42,7 @@ Import object layer data from currently open Civil 3D files:
 - **Direct Import** - Import object layer data directly from open files.
 
 ![Import from open file process](../../../assets/images/GIFs/TOL/Import-from-open-file-process.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ### 2. Import from Closed File
 
@@ -53,7 +53,7 @@ Import object layer data from closed Civil 3D files:
 - **Offline Import** - Import data without opening the source file.
 
 ![Import from closed file process](../../../assets/images/GIFs/TOL/Import-from-closed-file-process.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ### 3. Import from Excel
 
@@ -63,7 +63,7 @@ Import object layer data from Excel files containing standards:
 - **File Validation** - Validate Excel file format and content.
 
 ![Excel file selection and import process](../../../assets/images/GIFs/TOL/Excel-file-selection-and-import-process.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ## Modify Data Before Transferring
 
@@ -89,7 +89,7 @@ This layout allows you to easily review and understand each object’s layer con
 After importing object layer data, you can edit the data directly in the UI before transferring to your target file.
 
 ![Batch editing workflow](../../../assets/images/GIFs/TOL/Batch-editing-workflow.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ## Export to Excel
 
@@ -107,7 +107,7 @@ Export the currently displayed and edited data from the UI:
 - **Edited Data** - Include any modifications made in the data editing interface.
 
 ![Export of active UI data](../../../assets/images/GIFs/TOL/Export-of-active-UI-data.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 #### 2. Export Open Active File
 
@@ -118,4 +118,4 @@ Export object layer data directly from the currently open Civil 3D file:
 
 
 ![Export of open active file data](../../../assets/images/GIFs/TOL/Export-of-open-active-file-data.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>

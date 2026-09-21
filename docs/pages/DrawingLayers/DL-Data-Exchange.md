@@ -51,7 +51,7 @@ Export data for external editing:
 7. **Collect Updates** - Collect changes from team members and import back to tool (optional).
 
 ![Export Process](../../../assets/images/GIFs/DL/Export-Process.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 
 ## Import Process
@@ -78,4 +78,4 @@ The import process provides comprehensive data import capabilities with automati
 5. **Apply Changes** - Apply verified changes to layer data.
 
 ![Import Process](../../../assets/images/GIFs/DL/Import-Process.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>

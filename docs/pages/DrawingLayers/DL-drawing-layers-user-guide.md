@@ -35,7 +35,7 @@ The Drawing Layers tool opens with two main tabs:
 
 ![Drawing Layers Main Interface](../../../assets/images/PNGs/DL-MainInterface.png)  
 <sub><b>Image:</b> Main interface of Drawing Layers showing basic navigation</sub><br>
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/Civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 
 ### Basic Workflow
@@ -49,4 +49,4 @@ The Drawing Layers tool opens with two main tabs:
 7. **Apply Updates** - Confirm and apply changes to layer data.
 
 ![Basic Workflow](../../../assets/images/GIFs/DL/Basic-Workflow.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>

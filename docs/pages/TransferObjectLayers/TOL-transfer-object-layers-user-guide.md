@@ -37,5 +37,5 @@ Transfer Object Layers helps you transfer or migrate Civil 3D drawing object lay
 6. **Apply Settings** - Import all data to target file.
 
 ![Complete workflow from opening to applying settings](../../../assets/images/GIFs/TOL/Complete-workflow-from-opening-to-applying-settings.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 

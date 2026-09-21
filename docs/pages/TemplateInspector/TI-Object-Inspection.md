@@ -47,7 +47,7 @@ The following scan case types are used to get the object usage throughout drawin
 - **Reference Discovery** - Discover object references and dependencies.
 
 ![Main interface and basic navigation](../../../assets/images/GIFs/TI/Main-interface-and-basic-navigation.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ## Inspection Workflow
 
@@ -60,7 +60,7 @@ The inspector finds objects that reference the objects being inspected.
 5. **Review Results** - Review inspection results.
 
 ![Show complete inspection process](../../../assets/images/GIFs/TI/Inspection-Workflow.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ## Usage Display
 
@@ -80,7 +80,7 @@ The tool displays the references usage information in the following columns:
 - **Count** - Displays usage count information for placed/created objects only.
 
 <!-- ![Four-column display interface](../../../assets/images/GIFs/TI/Four-column-display-interface.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub> -->
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub> -->
 
 ### Component Column Reference
 
@@ -93,7 +93,7 @@ The **Template Component column** identifies the Settings location from the Civi
 Alignment Styles/Roadway Centerline Alignment Proposed - ATG/Display/Plan/Line
 ```
 <!-- ![Demonstrate object selection workflow](../../../assets/images/GIFs/TI/Demonstrate-object-selection-workflow.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub> -->
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub> -->
 
 ## Missing Object Limitations
 

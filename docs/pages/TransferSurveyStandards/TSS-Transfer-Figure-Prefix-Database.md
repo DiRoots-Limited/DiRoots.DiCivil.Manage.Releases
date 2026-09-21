@@ -27,7 +27,7 @@ Transfer Figure Prefix Database allows you to:
 - Export current file settings as standards.
 
 ![Transfer Figure Prefix Database Overview](../../../assets/images/GIFs/TSS/Transfer-Figure-Prefix-Database-Overview.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ## Import Options
 
@@ -41,7 +41,7 @@ Import Figure Prefix Database from Excel files:
 - **File Validation** - Validate Excel file format and content.
 
 ![Transfer Figure Prefix Database Import from Excel](../../../assets/images/GIFs/TSS/Transfer-Figure-Prefix-Database-Import-from-Excel.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ### 2. Import from .fdb File
 
@@ -51,7 +51,7 @@ Import Figure Prefix Database from .fdb files:
 - **Database Import** - Import complete database.
 
 ![Transfer Figure Prefix Database Import from fdb File](../../../assets/images/GIFs/TSS/Transfer-Figure-Prefix-Database-Import-from-fdb-File.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 
 
@@ -60,7 +60,7 @@ Import Figure Prefix Database from .fdb files:
 Transfer Survey Standards provides a unified data editing interface for the Figure Prefix Database, allowing you to review, modify, and validate all data directly in the UI before transferring it to your target file.
 
 ![Edit and Validate Figure Prefix Database Data Before Transfer](../../../assets/images/GIFs/TSS/Edit-and-Validate-Figure-Prefix-Database-Data-Before-Transfer.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 
 ## Export to Excel
@@ -79,7 +79,7 @@ Export the currently displayed and edited data from the UI:
 - **Edited Data** - Include any modifications made in the data editing interface.
 
 ![Transfer Figure Prefix Database Export Options](../../../assets/images/GIFs/TSS/Transfer-Figure-Prefix-Database-Export-Options.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 #### 2. Export Open Active File
 
@@ -89,5 +89,5 @@ Export Figure Prefix Database data directly from the currently open Civil 3D fil
 - **Original Data** - Export original Figure Prefix Database settings without UI modifications.
 
 ![Transfer Figure Prefix Database Export Open Active File](../../../assets/images/GIFs/TSS/Transfer-Figure-Prefix-Database-Export-Open-Active-File.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 

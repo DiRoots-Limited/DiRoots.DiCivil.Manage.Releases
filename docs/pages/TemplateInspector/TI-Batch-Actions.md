@@ -35,7 +35,7 @@ Select multiple objects for batch operations:
 - **Clear Selection** - Clear current selection.
 
 ![Demonstrate multi-object selection](../../../assets/images/GIFs/TI/Demonstrate-multi-object-selection.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 
 ## Batch Reassignment Workflow
@@ -47,7 +47,7 @@ Change object assignments for multiple instances using dropdown selection:
 3. **Execute Batch Assignment** - Apply assignment changes to all selected instances at once.
 
 ![Demonstrate batch assignment updates with dropdown selection](../../../assets/images/GIFs/TI/Demonstrate-batch-assignment-updates-with-dropdown-selection.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ## Object Deletion
 
@@ -64,7 +64,7 @@ To delete objects safely:
 
 
 ![Deletion requirements and verification process](../../../assets/images/GIFs/TI/Deletion-requirements-and-verification-process.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ### Deletion Requirements
 

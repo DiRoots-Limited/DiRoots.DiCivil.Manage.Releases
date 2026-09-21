@@ -16,14 +16,15 @@ Learn how to use Style Helper to efficiently edit Civil settings, styles and the
 
 ## Overview
 
-Style Helper provides a interface for editing Civil 3D settings, object styles, label styles, and table styles and their associated object components. The tool features custom column configuration based on selected objects, support for parent-child relationship label styles, and bulk editing capabilities.
+Style Helper provides an interface for editing Civil 3D settings, object styles, label styles, and table styles and their associated object components. The tool features custom column configuration based on selected objects, support for parent-child relationship label styles, and bulk editing capabilities.
 
 **Key Features:**
 - **Style Data Support** - Edit and displays the Object styles, Label styles, Table styles in a table format interface.
-- **Label Component Properties Editing Support** - The tool supports component properties edition, components as sub elements from the styles.
+- **Label Component Properties Editing Support** - The tool supports component properties editing, components as sub elements from the styles.
 - **Multi-Object Bulk Editing** - Edit multiple objects simultaneously in table format.
-- **Children Nested Label Style Support** - The tool supports children nested label styles properties edition.
+- **Children Nested Label Style Support** - The tool supports children nested label styles properties editing.
 - **Customizable Data Display** - Configure table columns to show the data you need.
+- **Excel Export/Import** - Export style data to Excel for bulk editing and import changes back.
 - **Profile System** - Save and reuse column configurations.
 
 ## Getting Started
@@ -47,13 +48,13 @@ Style Helper provides three main tabs for different style types:
 6. **Save Profile** - Save column configurations for reuse.
 
 ![Complete workflow from opening to saving a profile](../../../assets/images/GIFs/SH/Complete-workflow-from-opening-to-saving-a-profile.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ## Documentation Structure
 
 This user guide is organized into the following sections:
 
 - **[Object, Label, and Table Styles](SH-Object-Label-Table-Styles.md)** - Explanation of the three tabs and Civil 3D structure with component column reference
-- **[Editing Features](SH-Editing-Features.md)** - Table customization, data editing for all tabs, batch editing, and children styles support
+- **[Editing Features](SH-Editing-Features.md)** - Table customization, data editing for all tabs, batch editing, Excel export/import, and children styles support
 - **[Profile](SH-Profile.md)** - Profile management for saving and reusing column configurations
 

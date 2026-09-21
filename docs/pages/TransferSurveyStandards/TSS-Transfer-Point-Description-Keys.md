@@ -39,7 +39,7 @@ Import PDK data from currently open Civil 3D files:
 - **Direct Import** - Import PDK data directly from open files.
 
 ![Import from Open File](../../../assets/images/GIFs/TSS/Import-from-Open-File.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ### 2. Import from Closed File
 
@@ -50,7 +50,7 @@ Import PDK data from closed Civil 3D files:
 - **Offline Import** - Import data without opening the source file.
 
 ![Import from Closed File](../../../assets/images/GIFs/TSS/Import-from-Closed-File.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ### 3. Import from Excel
 
@@ -60,7 +60,7 @@ Import PDK data from Excel files containing standards:
 - **File Validation** - Validate Excel file format and content.
 
 ![Import from Excel](../../../assets/images/GIFs/TSS/Import-from-Excel.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ## PDK Data
 

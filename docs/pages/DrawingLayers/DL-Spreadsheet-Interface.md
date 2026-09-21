@@ -22,7 +22,7 @@ Drawing Layers provides a familiar spreadsheet interface for editing layer data 
 
 ## Overview
 
-The spreadsheet interface offers Excel-like functionality for editing layer data, including formula support. The interface is organized into two main tabs: Active Layers and Layer States, providing comprehensive layer edition capabilities.
+The spreadsheet interface offers Excel-like functionality for editing layer data, including formula support. The interface is organized into two main tabs: Active Layers and Layer States, providing comprehensive layer editing capabilities.
 
 
 ## Active Layers Tab
@@ -49,7 +49,7 @@ Edit layer properties directly in the spreadsheet interface:
 - **Other Properties** - Edit any layer property value.
 
 ![Active Layers Tab](../../../assets/images/GIFs/DL/Active-Layers-Tab.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ###  Adding Layers
 The spreadsheet interface allows you to add new layers and remove existing layers directly from the Excel format UI.
@@ -69,7 +69,7 @@ When importing layer data from an Excel file:
 - **New Layer Detection** - The system automatically identifies when a new layer is added that doesn't exist in the current document.
 
 ![Add and Remove Layers](../../../assets/images/GIFs/DL/DL-Add-LayerS.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ## Layer States Tab
 
@@ -94,7 +94,7 @@ Once selected, modify the properties of the chosen layer states directly in the 
 - **In-Place Editing** - All changes are made directly in the spreadsheet for fast and comprehensive management.
 
 ![Layer States Tab](../../../assets/images/GIFs/DL/Layer-States-Tab.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ## Spreadsheet Interface Features
 
@@ -108,13 +108,13 @@ Familiar spreadsheet format with rows and columns:
 - **Selection** - Select individual cells, rows, or columns.
 
 ![Active Layers Tab](../../../assets/images/GIFs/DL/Active-Layers-Tab.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ### Formula Support
 Excel-like formula functionality:
 
 ![Spreadsheet Interface Features Formula Support](../../../assets/images/GIFs/DL/Spreadsheet-Interface-Features-Formula-Support.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ### Visual Change Tracking
 
@@ -123,7 +123,7 @@ Track changes with visual indicators:
 When you make changes in the spreadsheet interface, any modified values are immediately highlighted in green, making it easy to spot edits. 
 
 ![Spreadsheet Interface Features Visual Change Tracking](../../../assets/images/GIFs/DL/Spreadsheet-Interface-Features-Visual-Change-Tracking.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ### Bulk Operations
 

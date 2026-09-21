@@ -31,7 +31,7 @@ The three tabs correspond to Civil 3D's style structure:
 - **Table Styles Tab** - Civil 3D table styles (quantity takeoff, surface tables, etc.).
 
 ![Three-tab interface and navigation between tabs and structure from C3D](../../../assets/images/GIFs/SH/Three-tab-interface-and-navigation-between-tabs-and-structure-from-C3D.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ## Object Styles Tab
 
@@ -47,7 +47,7 @@ Edit various Civil 3D object styles including display, geometry, analysis, and b
 *Note: The listed styles above are samples of the available object styles. There are many more object types and styles that can be edited in Style Helper.*
 
 ![Object Styles Tab](../../../assets/images/GIFs/SH/Object-Styles-Tab.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ## Label Styles Tab
 
@@ -63,7 +63,7 @@ Edit various Civil 3D label styles including text, line, block, and border compo
 *Note: The listed styles above are samples of the available label styles. There are many more label types and styles that can be edited in Style Helper.*
 
 ![Label Styles Tab](../../../assets/images/GIFs/SH/Label-Styles-Tab.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ## Table Styles Tab
 
@@ -79,7 +79,7 @@ Edit various Civil 3D table styles including table layout, column properties, he
 *Note: The listed styles above are samples of the available table styles. There are many more table types and styles that can be edited in Style Helper.*
 
 ![Table Styles Tab](../../../assets/images/GIFs/SH/Table-Styles-Tab.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ## Component Column Reference
 
@@ -129,5 +129,5 @@ The Component column helps you:
 - **Match Civil 3D Structure** - Directly correlate with Civil 3D's tree structure.
 
 <!-- ![Main interface showing the three-tab structure](../../../assets/images/GIFs/SH/Main-interface-showing-the-three-tab-structure.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub> -->
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub> -->
 

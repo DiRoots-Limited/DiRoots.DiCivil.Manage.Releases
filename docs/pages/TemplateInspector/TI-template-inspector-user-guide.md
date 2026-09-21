@@ -45,5 +45,5 @@ The Template Inspector tool is accessed directly from the plugin button. The mai
 5. **Manage Objects** - Reassign, select, isolate, delete objects.
 <!-- 
 ![Complete workflow from opening to managing objects](../../../assets/images/GIFs/TI/Basic-Workflow.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
  -->

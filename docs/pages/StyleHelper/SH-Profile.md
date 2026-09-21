@@ -30,4 +30,4 @@ The following settings are saved in the profiles:
 
 
 ![Show profile creation loading and management](../../../assets/images/GIFs/SH/Show-profile-creation-loading-and-management.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
