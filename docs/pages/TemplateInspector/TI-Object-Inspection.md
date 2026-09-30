@@ -46,7 +46,7 @@ The following scan case types are used to get the object usage throughout drawin
 - **Usage Detection** - Find all places where objects are used.
 - **Reference Discovery** - Discover object references and dependencies.
 
-![Main interface and basic navigation](../../../assets/images/GIFs/TI/Main-interface-and-basic-navigation.gif)
+![Main interface and basic navigation](../../../assets/images/GIFs/TI/Overview.gif)
 <sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ## Inspection Workflow

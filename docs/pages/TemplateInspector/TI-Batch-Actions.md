@@ -63,7 +63,7 @@ To delete objects safely:
 4. **Confirm Deletion** - A confirmation dialog will appear; confirm the action to proceed.
 
 
-![Deletion requirements and verification process](../../../assets/images/GIFs/TI/Deletion-requirements-and-verification-process.gif)
+![Deletion requirements and verification process](../../../assets/images/GIFs/TI/Demonstrate-complete-object-deletion-workflow.gif)
 <sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ### Deletion Requirements

@@ -62,7 +62,7 @@ Import object layer data from Excel files containing standards:
 - **Excel File Selection** - Select Excel files containing object layer data.
 - **File Validation** - Validate Excel file format and content.
 
-![Excel file selection and import process](../../../assets/images/GIFs/TOL/Excel-file-selection-and-import-process.gif)
+![Excel file selection and import process](../../../assets/images/GIFs/TOL/Import%20from%20Excel-.gif)
 <sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ## Modify Data Before Transferring
