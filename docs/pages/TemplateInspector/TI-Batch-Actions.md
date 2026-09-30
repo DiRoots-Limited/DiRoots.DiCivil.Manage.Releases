@@ -27,7 +27,7 @@ Delete and batch actions allow you to:
 - Change object assignments from dropdown selection for all selected inputs at once.
 - Delete unused objects from the drawing.
 
-## Multi-Object  Selection
+## Multi-Object Selection
 Select multiple objects for batch operations:
 
 - **Individual Selection** - Select specific objects using checkboxes.
@@ -71,4 +71,3 @@ To delete objects safely:
 Before objects can be deleted:
 
 - **Unused Status** - Objects must be completely unused (no references or dependencies).
-- **Objects are not Constraint** - Objects are not constraint for deletion.

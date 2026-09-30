@@ -64,15 +64,15 @@ The inspector finds objects that reference the objects being inspected.
 
 ## Usage Display
 
-Template Inspector shows usage information to show how objects are used throughout your drawings,  locations, template component and usage counts. The usage count specifically tracks only the objects that are placed or created in the drawing.
+Template Inspector shows how objects are used throughout your drawings, including locations, template components, and usage counts. The usage count specifically tracks only the objects that are placed or created in the drawing.
 
 ### Usage Status
 
-The object table on the left shows if the Object is being used in the column 'Usage Status':
+The object table on the left includes a **Usage Status** column. Each object is shown as **Used** when it is referenced in the drawing or settings, or **Unused** when it is not.
 
 ### Usage Display References
 
-The tool displays the references usage information in the following columns:
+The tool displays reference usage information in the following columns:
 
 - **Template Component** - Shows the settings path where the settings use the object.
 - **Associated Object** - Shows objects that are created in the drawing that have the inspected object referenced inside their properties.
