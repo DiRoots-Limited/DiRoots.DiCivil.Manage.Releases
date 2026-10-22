@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Transfer Object Layers
+title: Layer Settings
 parent: Transfer Object Layers
 nav_order: 3
 ---
 
-# Transfer Object Layers
+# Layer Settings
 {: .no_toc }
 
 ## Table of contents
