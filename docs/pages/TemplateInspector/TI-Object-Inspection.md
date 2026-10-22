@@ -96,7 +96,6 @@ Alignment Styles/Roadway Centerline Alignment Proposed - ATG/Display/Plan/Line
 <sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub> -->
 
 ## Missing Object Limitations
->
 > Due to current Civil 3D API limitations, Template Inspector cannot collect data associated with the following style types:
 >
 > - **Section View Styles** - Drafting buffer outline.
