@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Delete and Batch Actions
-parent: Template Inspector User Guide
+parent: Template Inspector
 nav_order: 3
 ---
 
@@ -16,7 +16,7 @@ nav_order: 3
 
 ---
 
-# Batch Actions
+## Batch Actions
 
 Template Inspector enables you to perform batch operations on multiple objects simultaneously, significantly improving efficiency when managing large numbers of objects. The batch action feature allows you to select multiple instances and change the assignment of objects from a dropdown selection for all selected inputs at once. Additionally, you can delete objects from the drawing after ensuring they are unused.
 

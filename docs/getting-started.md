@@ -8,9 +8,6 @@ nav_order: 2
 {: .no_toc }
 
 DiCivil Manage includes five Autodesk Civil 3D productivity tools for data management: Style Helper, Template Inspector, Drawing Layers, Transfer Object Layers, and Transfer Survey Standards.
-Not permitted:
--	Sell/resell
--	Make modifications to the software.
 {: .fs-6 .fw-300 }
 
 ## Table of contents

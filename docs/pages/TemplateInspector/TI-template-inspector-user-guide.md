@@ -1,22 +1,20 @@
 ---
 layout: default
-title: Template Inspector User Guide
+title: Template Inspector
 nav_order: 6
 has_children: true
 permalink: /docs/template-inspector-user-guide
 ---
 
-# Template Inspector User Guide
+# Template Inspector
 
 Learn how to use Template Inspector to get object usage, find where they are being used, perform batch modifications and delete them in your files efficiently.
 
 <img src="{{ '/assets/images/logos/TemplateInspectorLight.png' | relative_url }}" alt="Template Inspector Logo" width="128" style="display:block;margin:0 auto;">
 
-{: .fs-6 .fw-300 }
-
-## Overview
 
 Template Inspector helps you review where objects are used so you can batch modify their assignments, find their associated objects and delete them to clean your files. The supported objects are layers, line types, hatch styles, dimension styles, and text styles.
+{: .fs-6 .fw-300 }
 
 **Key Features:**
 - **Object Inspection** - View associated settings and items for each object.

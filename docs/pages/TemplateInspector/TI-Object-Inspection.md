@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Object Inspection
-parent: Template Inspector User Guide
+parent: Template Inspector
 nav_order: 2
 ---
 
@@ -16,7 +16,7 @@ nav_order: 2
 
 ---
 
-# Object Inspection
+
 
 Template Inspector provides object inspection capabilities to examine object properties, usage, and dependencies in detail. The inspection feature performs scans to find object usage and dependencies throughout your settings and objects, providing detailed information about where inspected objects are used.
 
@@ -97,11 +97,12 @@ Alignment Styles/Roadway Centerline Alignment Proposed - ATG/Display/Plan/Line
 
 ## Missing Object Limitations
 
-Due to current Civil 3D API limitations, Template Inspector cannot collect if data is associated to the following:
+> Due to current Civil 3D API limitations, Template Inspector cannot collect data associated with the following style types:
 
-- **Section View Styles** - Drafting buffer outline.
-- **Rail Turnout** - All rail turnout objects.
-- **Can't View Styles** - Equilibrium can't line annotation, Applied can't line annotation.
-- **Bridge Styles** - All bridge related styles.
+> - **Section View Styles** - Drafting buffer outline.
+> - **Rail Turnout** - All rail turnout objects.
+> - **Can't View Styles** - Equilibrium can't line annotation, Applied can't line annotation.
+> - **Bridge Styles** - All bridge related styles.
 
-The previous mentioned limitations are imposed by the Civil 3D API and are not within the control of Template Inspector. We continue to monitor API updates and will add support for these styles when they become available through the Civil 3D API.
+These limitations are imposed by the Civil 3D API and are not within the control of Template Inspector. We continue to monitor API updates and will add support for these styles when they become available through the Civil 3D API.
+{: .note }

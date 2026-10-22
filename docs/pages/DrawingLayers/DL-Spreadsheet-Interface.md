@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Spreadsheet Interface
-parent: Drawing Layers User Guide
+parent: Drawing Layers
 nav_order: 2
 ---
 
@@ -16,7 +16,7 @@ nav_order: 2
 
 ---
 
-# Spreadsheet Interface
+
 
 Drawing Layers provides a familiar spreadsheet interface for editing layer data and layer states directly within the application, making it easy to manage and modify your layer information.
 

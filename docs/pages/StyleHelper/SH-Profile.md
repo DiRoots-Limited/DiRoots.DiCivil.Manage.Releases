@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Profile
-parent: Style Helper User Guide
+parent: Style Helper
 nav_order: 5
 ---
 
@@ -16,7 +16,7 @@ nav_order: 5
 
 ---
 
-# Profile
+
 
 Style Helper profile makes it easy to save your settings and reuse them later.
 

@@ -1,22 +1,20 @@
 ---
 layout: default
-title: Transfer Survey Standards User Guide
+title: Transfer Survey Standards
 nav_order: 9
 has_children: true
 permalink: /docs/transfer-survey-standards-user-guide
 ---
 
-# Transfer Survey Standards User Guide
+# Transfer Survey Standards
 
 Learn how to use Transfer Survey Standards to transfer Civil 3D survey standards data between projects and manage Point Description Keys and Figure Prefix Database with Excel export and import capabilities.
 
 <img src="{{ '/assets/images/logos/transferSurveyStandardsLight.png' | relative_url }}" alt="Transfer Survey Standards Logo" width="128" style="display:block;margin:0 auto;">
 
-{: .fs-6 .fw-300 }
-
-## Overview
 
 Transfer Survey Standards helps you transfer your Civil 3D survey standards data between projects including Point Description Keys and the Figure Prefix Database, and their associated data. Whether you're transferring configuration across projects this tool provides efficient transfer solutions with Excel export and import functionality.
+{: .fs-6 .fw-300 }
 
 **Key Features:**
 - **Transfer Settings and PDKs** - Transfer Point Description Keys between files.

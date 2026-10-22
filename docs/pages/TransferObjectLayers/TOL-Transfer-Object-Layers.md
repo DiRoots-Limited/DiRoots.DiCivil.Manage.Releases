@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Transfer Object Layers
-parent: Transfer Object Layers User Guide
+parent: Transfer Object Layers
 nav_order: 3
 ---
 
@@ -16,7 +16,7 @@ nav_order: 3
 
 ---
 
-# Transfer Object Layers
+
 
 Transfer Object Layers provides comprehensive functionality to transfer Civil 3D object layer settings between projects, including direct file transfer and Excel export/import capabilities for creating and managing standards.
 

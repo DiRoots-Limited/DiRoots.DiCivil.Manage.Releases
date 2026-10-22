@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Transfer Figure Prefix Database
-parent: Transfer Survey Standards User Guide
+parent: Transfer Survey Standards
 nav_order: 3
 ---
 
@@ -16,7 +16,7 @@ nav_order: 3
 
 ---
 
-# Transfer Figure Prefix Database
+
 
 Transfer Survey Standards provides Figure Prefix Database transfer and manage figure prefix databases across projects with Excel and .fdb file support.
 
