@@ -20,14 +20,13 @@ nav_order: 3
 
 Template Inspector enables you to perform batch operations on multiple objects simultaneously, significantly improving efficiency when managing large numbers of objects. The batch action feature allows you to select multiple instances and change the assignment of objects from a dropdown selection for all selected inputs at once. Additionally, you can delete objects from the drawing after ensuring they are unused.
 
-## Overview
-
+### Overview
 Delete and batch actions allow you to:
 - Select multiple instances simultaneously.
 - Change object assignments from dropdown selection for all selected inputs at once.
 - Delete unused objects from the drawing.
 
-## Multi-Object Selection
+### Multi-Object Selection
 Select multiple objects for batch operations:
 
 - **Individual Selection** - Select specific objects using checkboxes.
@@ -38,8 +37,7 @@ Select multiple objects for batch operations:
 <sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 
-## Batch Reassignment Workflow
-
+### Batch Reassignment Workflow
 Change object assignments for multiple instances using dropdown selection:
 
 1. **Select Multiple Instances** - Choose multiple instances to modify.
@@ -49,8 +47,7 @@ Change object assignments for multiple instances using dropdown selection:
 ![Demonstrate batch assignment updates with dropdown selection](../../../assets/images/GIFs/TI/Demonstrate-batch-assignment-updates-with-dropdown-selection.gif)
 <sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
-## Object Deletion
-
+### Object Deletion
 Template Inspector provides the ability to delete objects from the drawing, but requires that objects be unused before deletion to ensure data integrity.
 
 ### Deletion Workflow
