@@ -50,7 +50,7 @@ Change object assignments for multiple instances using dropdown selection:
 ### Object Deletion
 Template Inspector provides the ability to delete objects from the drawing, but requires that objects be unused before deletion to ensure data integrity.
 
-### Deletion Workflow
+#### Deletion Workflow
 
 To delete objects safely:
 
@@ -63,7 +63,7 @@ To delete objects safely:
 ![Deletion requirements and verification process](../../../assets/images/GIFs/TI/Demonstrate-complete-object-deletion-workflow.gif)
 <sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
-### Deletion Requirements
+#### Deletion Requirements
 
 Before objects can be deleted:
 
