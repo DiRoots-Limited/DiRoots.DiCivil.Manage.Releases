@@ -104,5 +104,5 @@ Alignment Styles/Roadway Centerline Alignment Proposed - ATG/Display/Plan/Line
 > - **Can't View Styles** - Equilibrium can't line annotation, Applied can't line annotation.
 > - **Bridge Styles** - All bridge related styles.
 
-These limitations are imposed by the Civil 3D API and are not within the control of Template Inspector. We continue to monitor API updates and will add support for these styles when they become available through the Civil 3D API.
+> These limitations are imposed by the Civil 3D API and are not within the control of Template Inspector. We continue to monitor API updates and will add support for these styles when they become available through the Civil 3D API.
 {: .note }
