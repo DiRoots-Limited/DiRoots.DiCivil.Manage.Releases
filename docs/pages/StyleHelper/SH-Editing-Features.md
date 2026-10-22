@@ -205,7 +205,6 @@ The Style Helper feature includes the following options:
 <sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ## Missing Object Limitations
->
 > Due to current Civil 3D API limitations, Style Helper cannot collect data for the following style types:
 >
 > - **Section View Styles** - Drafting buffer outline.
