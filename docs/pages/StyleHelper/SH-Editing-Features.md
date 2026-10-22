@@ -216,8 +216,6 @@ The Style Helper feature includes the following options:
 > These limitations are imposed by the Civil 3D API and are not within the control of Style Helper. We continue to monitor API updates and will add support for these styles when they become available through the Civil 3D API.
 {: .note }
 
-{: .note }
-
 ## Label Styles Children Component Editing
 
 Style Helper supports children label styles editing capabilities.
