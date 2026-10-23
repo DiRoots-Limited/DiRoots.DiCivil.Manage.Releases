@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Export/Import to Excel
-parent: Drawing Layers User Guide
+parent: Drawing Layers
 nav_order: 3
 ---
 
@@ -16,7 +16,7 @@ nav_order: 3
 
 ---
 
-# Export/Import to Excel
+
 
 Drawing Layers provides import and export capabilities that allow you to export layer data to Excel for external editing, analysis, and standardization or backup purposes, as well as import updated layer data with change detection feature.
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Editing Features
-parent: Style Helper User Guide
+parent: Style Helper
 nav_order: 3
 ---
 
@@ -16,7 +16,7 @@ nav_order: 3
 
 ---
 
-# Editing Features
+
 
 Style Helper provides comprehensive editing capabilities for customizing table data, editing style data properties, and performing batch operations for efficient data editing.
 
@@ -105,7 +105,8 @@ Since the tool displays all subcomponents, some data may be associated with the 
 - **Cascading Updates** - Updates to the main component automatically update its subcomponents.
 - **Bulk Modifications** - Modify main component properties to update several subcomponents at once.
 
-> **Note:** To identify which rows represent subcomponents or main components during batch editing, refer to the **Component** column in the table. The structure and naming in the Component column are explained in the following reference: [Component Column Reference](SH-Object-Label-Table-Styles.md#component-column-reference)
+> **Note:** To identify subcomponents and main components during batch editing, refer to the **Component** column. See [Component Column Reference](SH-Object-Label-Table-Styles.md#component-column-reference) for details.
+{: .note }
 
 <!-- ![Parent-child relationship editing and its impact on multiple rows](../../../assets/images/GIFs/SH/Parent-child-relationship-editing-and-its-impact-on-multiple-rows.gif)
 <sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub> -->
@@ -197,25 +198,22 @@ The Style Helper feature includes the following options:
 6. **Add Prefix/Suffix (Optional)** - If needed, enter prefix and/or suffix values.
 7. **Apply Changes** - The values are edited in the main UI and marked as edited status. Values are applied when you apply changes in the main UI.
 
-**Important Notes:**
-
-- Values are applied only when the user applies changes in the main UI.
-- The operation works with editable properties only.
+> **Important:** Values are applied only after you apply changes in the main interface. Find and Replace works only with editable properties.
+{: .important }
 
 ![Style Helper find and replace feature](../../../assets/images/GIFs/SH/SH-Style-Helper-Find-Replace.gif)
 <sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ## Missing Object Limitations
-
-Due to current Civil 3D API limitations, Style Helper cannot collect the following style types:
-
-- **Section View Styles** - Drafting buffer outline.
-- **Rail Turnout** - All rail turnout related styles.
-- **Can't View Styles** - Equilibrium can't line annotation, Applied can't line annotation.
-- **Bridge Styles** - All bridge related styles.
-
-These limitations are imposed by the Civil 3D API and are not within the control of Style Helper. We continue to monitor API updates and will add support for these styles when they become available through the Civil 3D API.
-
+> Due to current Civil 3D API limitations, Style Helper cannot collect data for the following style types:
+>
+> - **Section View Styles** - Drafting buffer outline.
+> - **Rail Turnout** - All rail turnout related styles.
+> - **Can't View Styles** - Equilibrium can't line annotation, Applied can't line annotation.
+> - **Bridge Styles** - All bridge related styles.
+>
+> These limitations are imposed by the Civil 3D API and are not within the control of Style Helper. We continue to monitor API updates and will add support for these styles when they become available through the Civil 3D API.
+{: .note }
 
 ## Label Styles Children Component Editing
 

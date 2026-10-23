@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Object, Label, and Table Styles
-parent: Style Helper User Guide
+parent: Style Helper
 nav_order: 1
 ---
 
-# Style Data Support: Object, Label, and Table Styles
+# Object, Label, and Table Styles
 {: .no_toc }
 
 ## Table of contents
@@ -16,7 +16,6 @@ nav_order: 1
 
 ---
 
-# Style Data Support: Object, Label, and Table Styles
 
 Style Helper displays the Civil 3D object styles, label styles, and table styles data in a table interface, where each row represents a style and each column shows a property. You can edit many of these properties directly within the table interface. Some properties are read only and cannot be edited, the interface does not allow you to edit them.
 

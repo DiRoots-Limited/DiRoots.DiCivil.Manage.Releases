@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Transfer Point Description Keys
-parent: Transfer Survey Standards User Guide
+parent: Transfer Survey Standards
 nav_order: 2
 ---
 
@@ -16,7 +16,7 @@ nav_order: 2
 
 ---
 
-# Transfer Point Description Keys
+
 
 Transfer Survey Standards allows Point Description Keys (PDKs) transfer between projects, allowing you to transfer PDK configurations between projects with property preservation.
 

@@ -1,21 +1,20 @@
 ---
 layout: default
-title: Drawing Layers User Guide
+title: Drawing Layers
 nav_order: 7
 has_children: true
 permalink: /docs/drawing-layers-user-guide
 ---
 
-# Drawing Layers User Guide
+# Drawing Layers
 
 Learn how to use Drawing Layers to edit layer data and layer states using a spreadsheet-format interface, with Excel export and import capabilities.
+
 <img src="{{ '/assets/images/logos/DrawingLayerLight.png' | relative_url }}" alt="Drawing Layers Logo" width="128" style="display:block;margin:0 auto;">
 
-{: .fs-6 .fw-300 }
-
-## Overview
 
 Drawing Layers provides a powerful spreadsheet-format interface for editing layer data and layer states. The tool features two main tabs (Active Layers and Layer States) and allows you to manage your layer and state data efficiently using a familiar spreadsheet interface, complete with formula features, and enables export and import data to Excel for external editing.
+{: .fs-6 .fw-300 }
 
 **Key Features:**
 - **Active Layers and Layer States** - Handles Active Layers and Layer States data.

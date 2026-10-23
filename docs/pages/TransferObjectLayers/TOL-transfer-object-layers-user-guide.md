@@ -1,22 +1,20 @@
 ---
 layout: default
-title: Transfer Object Layers User Guide
+title: Transfer Object Layers
 nav_order: 8
 has_children: true
 permalink: /docs/transfer-object-layers-user-guide
 ---
 
-# Transfer Object Layers User Guide
+# Transfer Object Layers
 
-Learn how to use Transfer Object Layers to transfer Civil 3D object layer settings between projects while preserving all layer and properties, includes Excel export and import capabilities.
+Learn how to use Transfer Object Layers to transfer Civil 3D object layer settings between projects while preserving layer and property settings. The tool also supports Excel export and import.
 
 <img src="{{ '/assets/images/logos/transferObjectLayersLight.png' | relative_url }}" alt="Transfer Object Layers Logo" width="128" style="display:block;margin:0 auto;">
 
-{: .fs-6 .fw-300 }
-
-## Overview
 
 Transfer Object Layers helps you transfer or migrate Civil 3D drawing object layers settings to any other project or create Excel file format to define your standards. The tool provides two main options: transfer to files directly, and Excel export and import functionality for creating Object Layer Settings standards.
+{: .fs-6 .fw-300 }
 
 **Key Features:**
 - **Two Main Options** - Transfer files directly or Excel file export/import.

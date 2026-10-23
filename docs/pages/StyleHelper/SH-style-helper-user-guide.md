@@ -1,22 +1,20 @@
 ---
 layout: default
-title: Style Helper User Guide
+title: Style Helper
 nav_order: 5
 has_children: true
 permalink: /docs/style-helper-user-guide
 ---
 
-# Style Helper User Guide
+# Style Helper
 
 Learn how to use Style Helper to efficiently edit Civil settings, styles and their associated style components.
 
 <img src="{{ '/assets/images/logos/StyleHelperLight.png' | relative_url }}" alt="Style Helper Logo" width="128" style="display:block;margin:0 auto;">
 
-{: .fs-6 .fw-300 }
-
-## Overview
 
 Style Helper provides an interface for editing Civil 3D settings, object styles, label styles, and table styles and their associated object components. The tool features custom column configuration based on selected objects, support for parent-child relationship label styles, and bulk editing capabilities.
+{: .fs-6 .fw-300 }
 
 **Key Features:**
 - **Style Data Support** - Edit and displays the Object styles, Label styles, Table styles in a table format interface.
